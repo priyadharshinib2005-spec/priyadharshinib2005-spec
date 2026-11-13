@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi, I'm Priyadharshini! 👋
+B.Tech Information Technology Student
 
-<!--
-**priyadharshinib2005-spec/priyadharshinib2005-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interested in Artificial Intelligence, Machine Learning, Python and Data Science.
 
-Here are some ideas to get you started:
+Technical Skills:
+- Python
+- NumPy and Pandas
+- Java
+- Kotlin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- D2D Traffic Signal Automatic Recognition using Python
+- Smart Message Priority Notifier
+
+Certifications:
+- Wipro – Data Science with Python
+- NPTEL – Industry 4.0 and IIoT
+- Machine Learning using Python Workshop
+
+Currently learning: Machine Learning and practical AI applications.👋
+
+
+
